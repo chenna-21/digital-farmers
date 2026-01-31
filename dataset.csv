@@ -1,0 +1,514 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,Query Type,QueryText,KccAns
+UTTAR PRADESH,AGRA,ETMADPUR,,HORTICULTURE,Vegetables,Potato,Plant Protection,Which medicine should be used to control blight in potato?,Mancozeb 75% WP @ 2g per liter water.
+UTTAR PRADESH,AGRA,KHERAGARH,,AGRICULTURE,Cereals,Wheat,Government Schemes,Information About PM Kisan Samman Nidhi?,Check status on pmkisan.gov.in under Farmer Corner.
+PUNJAB,AMRITSAR,AJNALA,KHARIF,AGRICULTURE,Cereals,Wheat,Plant Protection,How to control yellow rust in wheat?,Spray Tilt (Propiconazole) @ 200 ml in 200 liters of water per acre.
+UTTAR PRADESH,AGRA,SAIYAN,,AGRICULTURE,Cereals,Wheat,Plant Protection,Fertilizer required in wheat?,Apply NPK 18:18:18 @ 500gm per 200 liter water spray.
+HARYANA,SIRSA,SIRSA,RABI,HORTICULTURE,Vegetables,Bhindi,Weed Management,Varieties of bhindi?,Punjab-8 and Arka Anamika are recommended.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Mustard,Disease,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Haryana,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Mustard,Disease,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Maize,Disease,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Rice,Disease,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Rice,Scheme,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Potato,Fertilizer,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Rice,Disease,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Brinjal,Advisory,Best sowing time for wheat?,Sow wheat between October and November.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Mustard,Disease,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Haryana,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Mustard,Disease,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Maize,Disease,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Potato,Advisory,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Potato,Advisory,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Maize,Fertilizer,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Rice,Disease,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Rice,Scheme,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Uttar Pradesh,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Mustard,Advisory,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Potato,Fertilizer,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Mustard,Disease,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Mustard,Disease,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Maize,Disease,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Haryana,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Tomato,Scheme,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Rice,Disease,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Tomato,Scheme,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Maharashtra,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Wheat,Fertilizer,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Rice,Disease,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Brinjal,Advisory,Best sowing time for wheat?,Sow wheat between October and November.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Potato,Pest,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Rice,Disease,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Madhya Pradesh,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Potato,Advisory,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Haryana,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Potato,Disease,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Mustard,Fertilizer,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Haryana,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Rice,Disease,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Potato,Fertilizer,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Rice,Advisory,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Haryana,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Cotton,Scheme,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Maize,Fertilizer,Best sowing time for wheat?,Sow wheat between October and November.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Rice,Scheme,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Maharashtra,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Maize,Fertilizer,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Cotton,Disease,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Wheat,Fertilizer,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Tomato,Pest,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Maharashtra,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Brinjal,Pest,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Wheat,Advisory,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Wheat,Scheme,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Mustard,Disease,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Madhya Pradesh,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Brinjal,Advisory,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Uttar Pradesh,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Brinjal,Fertilizer,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Mustard,Disease,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Uttar Pradesh,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Potato,Disease,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Brinjal,Fertilizer,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Tomato,Disease,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Wheat,Disease,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Brinjal,Fertilizer,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Rice,Pest,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Brinjal,Scheme,Best sowing time for wheat?,Sow wheat between October and November.
+Haryana,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Rice,Fertilizer,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Rice,Disease,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Tomato,Pest,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Brinjal,Scheme,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Rice,Pest,Best sowing time for wheat?,Sow wheat between October and November.
+Uttar Pradesh,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Mustard,Scheme,Best sowing time for wheat?,Sow wheat between October and November.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Tomato,Scheme,Best sowing time for wheat?,Sow wheat between October and November.
+Haryana,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Tomato,Fertilizer,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Potato,Fertilizer,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Maharashtra,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Potato,Fertilizer,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Brinjal,Fertilizer,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Wheat,Fertilizer,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Maize,Fertilizer,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Wheat,Fertilizer,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Brinjal,Scheme,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Uttar Pradesh,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Cotton,Disease,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Maize,Fertilizer,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Tomato,Scheme,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Potato,Disease,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Maize,Scheme,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Tomato,Advisory,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Maize,Fertilizer,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Potato,Disease,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Mustard,Disease,Best sowing time for wheat?,Sow wheat between October and November.
+Maharashtra,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Potato,Pest,Best sowing time for wheat?,Sow wheat between October and November.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Mustard,Advisory,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Brinjal,Pest,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Rice,Pest,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Potato,Pest,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Cotton,Disease,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Potato,Disease,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Cotton,Scheme,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Maharashtra,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Maize,Scheme,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Tomato,Scheme,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Maharashtra,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Brinjal,Fertilizer,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Brinjal,Advisory,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Wheat,Pest,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Tomato,Advisory,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Rice,Fertilizer,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Uttar Pradesh,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Potato,Disease,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Potato,Advisory,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Maize,Pest,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Mustard,Disease,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Wheat,Disease,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Potato,Disease,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Maharashtra,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Cotton,Scheme,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Mustard,Advisory,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Haryana,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Wheat,Fertilizer,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Maharashtra,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Wheat,Scheme,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Rice,Disease,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Wheat,Pest,Best sowing time for wheat?,Sow wheat between October and November.
+Uttar Pradesh,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Wheat,Disease,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Tomato,Disease,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Haryana,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Mustard,Advisory,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Cotton,Advisory,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Wheat,Fertilizer,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Tomato,Disease,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Potato,Advisory,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Maize,Scheme,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Rice,Pest,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Haryana,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Mustard,Pest,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Potato,Advisory,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Wheat,Fertilizer,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Haryana,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Maize,Advisory,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Mustard,Advisory,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Potato,Disease,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Cotton,Fertilizer,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Wheat,Scheme,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Wheat,Advisory,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Rice,Scheme,Best sowing time for wheat?,Sow wheat between October and November.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Cotton,Fertilizer,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Maize,Fertilizer,Best sowing time for wheat?,Sow wheat between October and November.
+Madhya Pradesh,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Mustard,Scheme,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Maize,Scheme,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Mustard,Fertilizer,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Tomato,Advisory,Best sowing time for wheat?,Sow wheat between October and November.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Rice,Disease,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Maize,Advisory,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Uttar Pradesh,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Wheat,Pest,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Cotton,Fertilizer,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Maize,Fertilizer,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Maize,Advisory,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Maize,Fertilizer,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Potato,Advisory,Best sowing time for wheat?,Sow wheat between October and November.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Maize,Disease,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Rice,Advisory,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Maize,Disease,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Maharashtra,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Rice,Disease,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Rice,Scheme,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Potato,Pest,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Wheat,Fertilizer,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Mustard,Fertilizer,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Rice,Advisory,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Potato,Advisory,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Wheat,Disease,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Maize,Fertilizer,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Potato,Advisory,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Tomato,Scheme,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Cotton,Advisory,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Wheat,Fertilizer,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Tomato,Fertilizer,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Rice,Advisory,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Haryana,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Mustard,Scheme,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Haryana,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Wheat,Fertilizer,Best sowing time for wheat?,Sow wheat between October and November.
+Uttar Pradesh,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Mustard,Advisory,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Tomato,Scheme,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Maize,Fertilizer,Best sowing time for wheat?,Sow wheat between October and November.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Brinjal,Pest,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Potato,Scheme,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Brinjal,Fertilizer,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Cotton,Scheme,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Wheat,Scheme,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Haryana,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Wheat,Fertilizer,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Cotton,Scheme,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Uttar Pradesh,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Brinjal,Pest,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Brinjal,Pest,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Potato,Disease,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Cotton,Scheme,Best sowing time for wheat?,Sow wheat between October and November.
+Haryana,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Tomato,Pest,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Rice,Disease,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Brinjal,Pest,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Wheat,Disease,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Cotton,Scheme,Best sowing time for wheat?,Sow wheat between October and November.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Potato,Disease,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Mustard,Advisory,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Tomato,Fertilizer,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Brinjal,Advisory,Best sowing time for wheat?,Sow wheat between October and November.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Wheat,Disease,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Potato,Pest,Best sowing time for wheat?,Sow wheat between October and November.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Wheat,Advisory,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Madhya Pradesh,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Potato,Fertilizer,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Rice,Pest,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Rice,Fertilizer,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Potato,Pest,Best sowing time for wheat?,Sow wheat between October and November.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Rice,Scheme,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Brinjal,Disease,Best sowing time for wheat?,Sow wheat between October and November.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Rice,Scheme,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Maize,Scheme,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Mustard,Scheme,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Mustard,Scheme,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Rice,Disease,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Tomato,Disease,Best sowing time for wheat?,Sow wheat between October and November.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Wheat,Pest,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Wheat,Pest,Best sowing time for wheat?,Sow wheat between October and November.
+Maharashtra,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Tomato,Disease,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Rice,Scheme,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Uttar Pradesh,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Brinjal,Disease,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Wheat,Pest,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Wheat,Advisory,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Cotton,Disease,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Brinjal,Disease,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Potato,Disease,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Potato,Advisory,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Mustard,Scheme,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Wheat,Fertilizer,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Brinjal,Fertilizer,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Cotton,Fertilizer,Best sowing time for wheat?,Sow wheat between October and November.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Tomato,Scheme,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Maharashtra,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Tomato,Pest,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Wheat,Pest,Best sowing time for wheat?,Sow wheat between October and November.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Wheat,Fertilizer,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Haryana,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Rice,Fertilizer,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Potato,Disease,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Wheat,Disease,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Potato,Fertilizer,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Wheat,Fertilizer,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Tomato,Fertilizer,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Tomato,Advisory,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Potato,Scheme,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Haryana,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Maize,Fertilizer,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Potato,Fertilizer,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Wheat,Fertilizer,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Tomato,Fertilizer,Best sowing time for wheat?,Sow wheat between October and November.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Cotton,Scheme,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Rice,Advisory,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Wheat,Scheme,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Tomato,Scheme,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Maharashtra,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Rice,Advisory,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Maize,Pest,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Mustard,Disease,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Rice,Pest,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Madhya Pradesh,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Mustard,Advisory,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Rice,Disease,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Rice,Fertilizer,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Rice,Pest,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Rice,Advisory,Best sowing time for wheat?,Sow wheat between October and November.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Maize,Advisory,Best sowing time for wheat?,Sow wheat between October and November.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Wheat,Pest,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Maize,Scheme,Best sowing time for wheat?,Sow wheat between October and November.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Cotton,Scheme,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Wheat,Fertilizer,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Haryana,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Mustard,Scheme,Best sowing time for wheat?,Sow wheat between October and November.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Potato,Fertilizer,Best sowing time for wheat?,Sow wheat between October and November.
+Madhya Pradesh,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Potato,Scheme,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Madhya Pradesh,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Maize,Disease,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Tomato,Pest,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Cotton,Scheme,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Cotton,Fertilizer,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Maize,Fertilizer,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Brinjal,Pest,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Wheat,Fertilizer,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Potato,Disease,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Rice,Scheme,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Cotton,Fertilizer,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Haryana,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Tomato,Scheme,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Haryana,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Maize,Fertilizer,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Cotton,Advisory,Best sowing time for wheat?,Sow wheat between October and November.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Maize,Advisory,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Brinjal,Pest,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Cotton,Fertilizer,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Haryana,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Tomato,Disease,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Wheat,Advisory,Best sowing time for wheat?,Sow wheat between October and November.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Cotton,Advisory,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Haryana,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Potato,Disease,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Wheat,Disease,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Brinjal,Fertilizer,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Madhya Pradesh,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Tomato,Scheme,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Brinjal,Scheme,Best sowing time for wheat?,Sow wheat between October and November.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Mustard,Scheme,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Tomato,Advisory,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Wheat,Disease,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Rice,Scheme,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Mustard,Advisory,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Potato,Disease,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Maize,Scheme,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Cotton,Scheme,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Maharashtra,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Potato,Scheme,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Mustard,Scheme,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Tomato,Pest,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Potato,Advisory,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Haryana,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Maize,Advisory,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Haryana,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Tomato,Fertilizer,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Rice,Scheme,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Brinjal,Advisory,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Rice,Disease,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Rice,Fertilizer,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Rice,Pest,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Wheat,Disease,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Wheat,Advisory,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Mustard,Fertilizer,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Uttar Pradesh,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Brinjal,Fertilizer,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Haryana,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Wheat,Pest,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Brinjal,Pest,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Uttar Pradesh,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Maize,Scheme,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Madhya Pradesh,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Maize,Disease,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Rice,Advisory,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Wheat,Pest,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Tomato,Pest,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Wheat,Fertilizer,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Potato,Scheme,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Cotton,Pest,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Brinjal,Fertilizer,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Mustard,Advisory,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Rice,Disease,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Brinjal,Disease,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Brinjal,Fertilizer,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Potato,Advisory,Best sowing time for wheat?,Sow wheat between October and November.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Maize,Fertilizer,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Potato,Fertilizer,Best sowing time for wheat?,Sow wheat between October and November.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Rice,Disease,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Haryana,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Rice,Scheme,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Haryana,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Rice,Pest,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Potato,Disease,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Uttar Pradesh,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Mustard,Advisory,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Haryana,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Rice,Advisory,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Maize,Fertilizer,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Mustard,Advisory,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Mustard,Disease,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Cotton,Advisory,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Maize,Scheme,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Tomato,Disease,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Wheat,Advisory,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Mustard,Pest,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Wheat,Scheme,Best sowing time for wheat?,Sow wheat between October and November.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Brinjal,Advisory,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Potato,Disease,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Maize,Pest,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Cotton,Pest,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Wheat,Scheme,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Maize,Scheme,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Mustard,Pest,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Maize,Disease,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Mustard,Disease,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Brinjal,Scheme,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Cotton,Disease,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Maharashtra,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Maize,Disease,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Cotton,Advisory,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Wheat,Advisory,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Uttar Pradesh,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Maize,Advisory,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Madhya Pradesh,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Wheat,Scheme,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Tomato,Scheme,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Maize,Fertilizer,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Potato,Scheme,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Rice,Pest,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Cotton,Disease,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Tomato,Disease,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Mustard,Scheme,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Mustard,Advisory,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Maize,Fertilizer,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Haryana,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Potato,Fertilizer,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Mustard,Pest,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Brinjal,Fertilizer,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Haryana,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Maize,Advisory,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Cotton,Scheme,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Rice,Scheme,Best sowing time for wheat?,Sow wheat between October and November.
+Haryana,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Tomato,Fertilizer,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Cotton,Disease,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Wheat,Scheme,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Mustard,Pest,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Haryana,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Cotton,Advisory,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Mustard,Scheme,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Maize,Advisory,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Cotton,Disease,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Wheat,Disease,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Potato,Fertilizer,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Brinjal,Advisory,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Cotton,Disease,Best sowing time for wheat?,Sow wheat between October and November.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Cotton,Disease,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Maize,Scheme,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Haryana,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Mustard,Disease,Best sowing time for wheat?,Sow wheat between October and November.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Brinjal,Disease,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Cotton,Advisory,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Rice,Fertilizer,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Haryana,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Rice,Scheme,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Rice,Pest,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Madhya Pradesh,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Maize,Advisory,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Tomato,Disease,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Haryana,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Cotton,Fertilizer,Best sowing time for wheat?,Sow wheat between October and November.
+Haryana,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Wheat,Scheme,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Rice,Pest,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Cotton,Disease,Best sowing time for wheat?,Sow wheat between October and November.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Potato,Fertilizer,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Brinjal,Advisory,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Cotton,Disease,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Wheat,Advisory,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Brinjal,Disease,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Cotton,Disease,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Uttar Pradesh,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Brinjal,Advisory,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Maize,Pest,Best sowing time for wheat?,Sow wheat between October and November.
+Uttar Pradesh,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Tomato,Fertilizer,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Brinjal,Advisory,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Haryana,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Potato,Pest,Best sowing time for wheat?,Sow wheat between October and November.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Brinjal,Fertilizer,Best sowing time for wheat?,Sow wheat between October and November.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Potato,Scheme,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Mustard,Pest,Best sowing time for wheat?,Sow wheat between October and November.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Cotton,Fertilizer,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Maize,Pest,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Wheat,Fertilizer,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Rice,Scheme,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Rice,Fertilizer,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Maize,Advisory,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Wheat,Fertilizer,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Cotton,Fertilizer,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Brinjal,Fertilizer,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Mustard,Scheme,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Rice,Pest,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Wheat,Advisory,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Tomato,Advisory,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Maize,Disease,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Brinjal,Pest,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Cotton,Fertilizer,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Mustard,Scheme,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Rice,Pest,Best sowing time for wheat?,Sow wheat between October and November.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Mustard,Disease,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Maize,Advisory,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Mustard,Scheme,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Tomato,Disease,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Tomato,Fertilizer,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Cotton,Advisory,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Mustard,Scheme,Best sowing time for wheat?,Sow wheat between October and November.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Mustard,Disease,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Potato,Fertilizer,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Cotton,Disease,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Haryana,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Mustard,Advisory,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Wheat,Advisory,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Mustard,Disease,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Madhya Pradesh,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Tomato,Disease,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Rice,Scheme,Best sowing time for wheat?,Sow wheat between October and November.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Mustard,Pest,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Rice,Scheme,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Potato,Scheme,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Rice,Fertilizer,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Brinjal,Fertilizer,Best sowing time for wheat?,Sow wheat between October and November.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Brinjal,Scheme,Best sowing time for wheat?,Sow wheat between October and November.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Wheat,Scheme,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Potato,Pest,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Haryana,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Maize,Advisory,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Brinjal,Disease,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Maharashtra,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Wheat,Scheme,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Maize,Scheme,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Brinjal,Advisory,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Brinjal,Advisory,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Cotton,Pest,Best sowing time for wheat?,Sow wheat between October and November.
+Maharashtra,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Rice,Fertilizer,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Wheat,Advisory,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Rice,Scheme,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Uttar Pradesh,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Rice,Disease,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Maize,Advisory,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Wheat,Pest,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Cotton,Disease,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Potato,Fertilizer,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Wheat,Advisory,Best sowing time for wheat?,Sow wheat between October and November.
+Maharashtra,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Potato,Scheme,Best sowing time for wheat?,Sow wheat between October and November.
+Madhya Pradesh,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Cotton,Pest,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Potato,Pest,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Cotton,Fertilizer,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Rice,Fertilizer,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Haryana,Sample District,Sample Block,Rabi,Agriculture,Government Scheme,Wheat,Pest,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Maize,Fertilizer,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Potato,Pest,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Haryana,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Rice,Advisory,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Rice,Advisory,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Haryana,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Rice,Advisory,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Disease Management,Wheat,Advisory,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Maize,Scheme,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Brinjal,Pest,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Cotton,Disease,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Maize,Disease,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Rajasthan,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Rice,Advisory,Best sowing time for wheat?,Sow wheat between October and November.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Fertilizer,Maize,Advisory,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Wheat,Disease,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Wheat,Pest,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Tomato,Fertilizer,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Tomato,Scheme,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Potato,Scheme,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Crop Advisory,Tomato,Scheme,Best sowing time for wheat?,Sow wheat between October and November.
+Maharashtra,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Wheat,Scheme,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Crop Advisory,Tomato,Pest,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Punjab,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Wheat,Scheme,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Wheat,Disease,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Madhya Pradesh,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Brinjal,Pest,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Fertilizer,Wheat,Scheme,Recommended fertilizer for maize?,Apply Urea 25 kg per acre during flowering.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Government Scheme,Wheat,Pest,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Cotton,Disease,Best sowing time for wheat?,Sow wheat between October and November.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Rice,Pest,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Potato,Pest,Best sowing time for wheat?,Sow wheat between October and November.
+Rajasthan,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Maize,Fertilizer,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Madhya Pradesh,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Tomato,Pest,Treatment for leaf spot in tomato?,Spray Chlorothalonil fungicide weekly.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Tomato,Scheme,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Punjab,Sample District,Sample Block,Rabi,Agriculture,Crop Advisory,Potato,Advisory,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Uttar Pradesh,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Tomato,Pest,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Disease Management,Potato,Disease,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Maharashtra,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Tomato,Scheme,Best sowing time for wheat?,Sow wheat between October and November.
+Madhya Pradesh,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Maize,Advisory,How to treat blight in potato?,Spray Mancozeb 75WP @ 2 g/litre of water.
+Maharashtra,Sample District,Sample Block,Rabi,Agriculture,Pest Control,Maize,Fertilizer,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Haryana,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Mustard,Advisory,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.
+Uttar Pradesh,Sample District,Sample Block,Kharif,Agriculture,Pest Control,Cotton,Pest,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Fertilizer,Maize,Disease,How to protect paddy from blast disease?,Apply Tricyclazole fungicide @ recommended dose.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Maize,Fertilizer,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Maharashtra,Sample District,Sample Block,Zaid,Agriculture,Pest Control,Tomato,Pest,How to control whitefly in cotton?,Use Thiamethoxam 25WG @ 0.25 g/litre of water.
+Punjab,Sample District,Sample Block,Kharif,Agriculture,Disease Management,Tomato,Scheme,How to apply for PM Kisan scheme?,Apply via pmkisan.gov.in with Aadhaar and bank details.
+Rajasthan,Sample District,Sample Block,Zaid,Agriculture,Government Scheme,Mustard,Fertilizer,How to control aphids in mustard?,Spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water.

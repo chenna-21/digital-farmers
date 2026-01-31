@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AgriBot - AI for Farmers</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        agro: {
+                            50: '#f4fbf7',
+                            100: '#eef8f2',
+                            500: '#22c55e',
+                            600: '#16a34a',
+                            900: '#14532d',
+                        }
+                    },
+                    fontFamily: {
+                        sans: ['Outfit', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        body { font-family: 'Outfit', sans-serif; }
+        .glass {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+        }
+        .message-anim {
+            animation: fadeIn 0.3s ease-out;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body class="bg-gradient-to-br from-agro-50 to-green-100 min-h-screen text-slate-800 flex flex-col">
+
+    <!-- Header -->
+    <header class="glass sticky top-0 z-50 border-b border-green-100/50 shadow-sm">
+        <div class="max-w-4xl mx-auto px-4 py-4 flex items-center justify-between">
+            <div class="flex items-center gap-3">
+                <div class="w-10 h-10 bg-agro-500 rounded-xl flex items-center justify-center text-white font-bold text-xl shadow-lg shadow-green-500/30">
+                    A
+                </div>
+                <h1 class="text-xl font-semibold tracking-tight text-agro-900">AgriBot</h1>
+            </div>
+            <div class="text-xs font-medium text-green-600 bg-green-50 px-3 py-1 rounded-full border border-green-100">
+                Online
+            </div>
+        </div>
+    </header>
+
+    <!-- Chat Area -->
+    <main class="flex-1 max-w-4xl mx-auto w-full p-4 flex flex-col gap-4 overflow-y-auto pb-32" id="chat-container">
+        <!-- Welcome Message -->
+        <div class="flex gap-4 message-anim">
+            <div class="w-8 h-8 rounded-full bg-agro-100 flex items-center justify-center flex-shrink-0 text-xl">
+                🤖
+            </div>
+            <div class="glass p-4 rounded-2xl rounded-tl-none shadow-sm border border-white max-w-[85%]">
+                <p class="text-sm leading-relaxed">
+                    Namaste! I am AgriBot. I can help you with crop details, pest control, fertilizers, and government schemes.
+                    <br><br>
+                    Try asking: 
+                    <span class="font-medium text-agro-600">"Medicine for potato blight?"</span> or 
+                    <span class="font-medium text-agro-600">"PM Kisan scheme status?"</span>
+                </p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Input Area -->
+    <div class="fixed bottom-0 left-0 right-0 p-4 bg-gradient-to-t from-white via-white to-transparent">
+        <div class="max-w-4xl mx-auto">
+            <form id="chat-form" class="glass rounded-2xl border border-green-100 shadow-xl shadow-green-900/5 flex items-center p-2 gap-2">
+                <input 
+                    type="text" 
+                    id="user-input" 
+                    placeholder="Ask about crops, pests, or schemes..." 
+                    class="flex-1 bg-transparent border-none focus:ring-0 text-base px-4 py-2 placeholder-slate-400"
+                    autocomplete="off"
+                >
+                <button 
+                    type="submit" 
+                    class="bg-agro-600 hover:bg-agro-500 text-white rounded-xl px-6 py-3 font-medium transition-all shadow-md shadow-green-600/20 active:scale-95 disabled:opacity-50 disabled:cursor-not-allowed"
+                    id="send-btn"
+                >
+                    Send
+                </button>
+            </form>
+            <div class="text-center mt-2">
+                <p class="text-[10px] text-slate-400">AI responses may vary. Verify with local experts.</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const chatContainer = document.getElementById('chat-container');
+        const chatForm = document.getElementById('chat-form');
+        const userInput = document.getElementById('user-input');
+        const sendBtn = document.getElementById('send-btn');
+
+        const API_URL = 'http://localhost:8000/api/chat';
+
+        function appendMessage(text, isUser, sources = []) {
+            const wrapper = document.createElement('div');
+            wrapper.className = `flex gap-4 message-anim ${isUser ? 'flex-row-reverse' : ''}`;
+            
+            const avatar = document.createElement('div');
+            avatar.className = `w-8 h-8 rounded-full flex items-center justify-center flex-shrink-0 text-lg ${isUser ? 'bg-slate-100' : 'bg-agro-100'}`;
+            avatar.innerHTML = isUser ? '👤' : '🤖';
+
+            const bubble = document.createElement('div');
+            bubble.className = `p-4 rounded-2xl shadow-sm max-w-[85%] text-sm leading-relaxed ${
+                isUser 
+                ? 'bg-agro-600 text-white rounded-tr-none shadow-green-600/10' 
+                : 'glass border border-white rounded-tl-none'
+            }`;
+
+            // Parse MD-like bold
+            let formattedText = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+            formattedText = formattedText.replace(/\n/g, '<br>');
+            bubble.innerHTML = `<p>${formattedText}</p>`;
+
+            // Add sources if available
+            if (sources && sources.length > 0 && !isUser) {
+                const sourceContainer = document.createElement('div');
+                sourceContainer.className = "mt-3 pt-3 border-t border-slate-100 text-xs";
+                sourceContainer.innerHTML = '<p class="font-medium text-slate-500 mb-1">Relevant Records:</p>';
+                sources.forEach(src => {
+                    const s = document.createElement('div');
+                    s.className = "bg-slate-50 p-2 rounded mb-1 text-slate-600 italic";
+                    s.innerText = `"${src.question}"`;
+                    sourceContainer.appendChild(s);
+                });
+                bubble.appendChild(sourceContainer);
+            }
+
+            wrapper.appendChild(avatar);
+            wrapper.appendChild(bubble); // Correct order is handled by flex-row-reverse for user
+
+            chatContainer.appendChild(wrapper);
+            chatContainer.scrollTop = chatContainer.scrollHeight;
+        }
+
+        chatForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const query = userInput.value.trim();
+            if (!query) return;
+
+            // Add User Message
+            appendMessage(query, true);
+            userInput.value = '';
+            userInput.disabled = true;
+            sendBtn.disabled = true;
+
+            // Loading State
+            const loadingId = 'loading-' + Date.now();
+            const loadingWrapper = document.createElement('div');
+            loadingWrapper.id = loadingId;
+            loadingWrapper.className = 'flex gap-4 message-anim';
+            loadingWrapper.innerHTML = `
+                <div class="w-8 h-8 rounded-full bg-agro-100 flex items-center justify-center flex-shrink-0 text-xl">🤖</div>
+                <div class="glass p-4 rounded-2xl rounded-tl-none shadow-sm border border-white">
+                    <div class="flex gap-1">
+                        <div class="w-2 h-2 bg-agro-400 rounded-full animate-bounce"></div>
+                        <div class="w-2 h-2 bg-agro-400 rounded-full animate-bounce" style="animation-delay: 0.1s"></div>
+                        <div class="w-2 h-2 bg-agro-400 rounded-full animate-bounce" style="animation-delay: 0.2s"></div>
+                    </div>
+                </div>
+            `;
+            chatContainer.appendChild(loadingWrapper);
+            chatContainer.scrollTop = chatContainer.scrollHeight;
+
+            try {
+                const response = await fetch(API_URL, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ query: query })
+                });
+
+                const data = await response.json();
+                
+                // Remove loading
+                document.getElementById(loadingId).remove();
+
+                if (response.ok) {
+                    appendMessage(data.response, false, data.sources);
+                } else {
+                    appendMessage("Error: " + (data.detail || "Something went wrong"), false);
+                }
+
+            } catch (err) {
+                document.getElementById(loadingId).remove();
+                appendMessage("Network Error: Could not connect to AgriBot backend. Make sure it's running.", false);
+                console.error(err);
+            } finally {
+                userInput.disabled = false;
+                sendBtn.disabled = false;
+                userInput.focus();
+            }
+        });
+    </script>
+</body>
+</html>
