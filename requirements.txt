@@ -5,6 +5,8 @@ sentence-transformers
 faiss-cpu
 python-multipart
 python-dotenv
-openai
-
+openai>=1.0.0
+google-generativeai
+groq
 scikit-learn
+deep-translator

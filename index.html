@@ -55,8 +55,15 @@
                 </div>
                 <h1 class="text-xl font-semibold tracking-tight text-agro-900">AgriBot</h1>
             </div>
-            <div class="text-xs font-medium text-green-600 bg-green-50 px-3 py-1 rounded-full border border-green-100">
-                Online
+            <div class="flex items-center gap-2">
+                <select id="lang-select" class="bg-white border border-green-200 text-slate-700 text-sm rounded-lg focus:ring-agro-500 focus:border-agro-500 block p-1.5 focus:outline-none">
+                    <option value="en">English</option>
+                    <option value="hi">Hindi</option>
+                    <option value="te">Telugu</option>
+                </select>
+                <div class="text-xs font-medium text-green-600 bg-green-50 px-3 py-1 rounded-full border border-green-100">
+                    Online
+                </div>
             </div>
         </div>
     </header>
@@ -110,8 +117,22 @@
         const chatForm = document.getElementById('chat-form');
         const userInput = document.getElementById('user-input');
         const sendBtn = document.getElementById('send-btn');
+        const langSelect = document.getElementById('lang-select');
+        let currentLang = 'en';
 
-        const API_URL = 'http://localhost:8000/api/chat';
+        // Simple Localization
+        const uiText = {
+            en: { placeholder: "Ask about crops, pests, or schemes..." },
+            hi: { placeholder: "फसलों, कीटों या योजनाओं के बारे में पूछें..." },
+            te: { placeholder: "పంటలు, తెగుళ్లు లేదా పథకాల గురించి అడగండి..." }
+        };
+
+        langSelect.addEventListener('change', (e) => {
+            currentLang = e.target.value;
+            userInput.placeholder = uiText[currentLang].placeholder;
+        });
+
+        const API_URL = 'http://localhost:8001/api/chat';
 
         function appendMessage(text, isUser, sources = []) {
             const wrapper = document.createElement('div');
@@ -187,7 +208,7 @@
                 const response = await fetch(API_URL, {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ query: query })
+                    body: JSON.stringify({ query: query, lang: currentLang })
                 });
 
                 const data = await response.json();

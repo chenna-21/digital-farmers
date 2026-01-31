@@ -18,6 +18,7 @@ app.add_middleware(
 
 class QueryRequest(BaseModel):
     query: str
+    lang: str = "en"  # Default to English
 
 class QueryResponse(BaseModel):
     response: str
@@ -32,17 +33,16 @@ def chat_endpoint(request: QueryRequest):
     if not request.query:
         raise HTTPException(status_code=400, detail="Query cannot be empty")
     
-    # Get answer from RAG engine
+    # Get answer from RAG engine (Offline/Online + Multi-lang)
     try:
-        results = rag_engine.search(request.query)
-        answer = rag_engine.generate_response(request.query)
+        result = rag_engine.generate_response(request.query, request.lang)
         return {
-            "response": answer,
-            "sources": results
+            "response": result["response"],
+            "sources": result["sources"]
         }
     except Exception as e:
         print(f"Error processing query: {e}")
         raise HTTPException(status_code=500, detail="Internal Server Error")
 
 if __name__ == "__main__":
-    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
+    uvicorn.run("main:app", host="0.0.0.0", port=8001, reload=True)
